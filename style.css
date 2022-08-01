@@ -1,1 +1,37 @@
-img{width: 250 px; height: auto;}
+body {
+    background-color: aliceblue;
+    
+  
+}
+
+header {
+    background-color: antiquewhite;
+}
+
+nav {
+    background-color: aqua;
+}
+
+main {
+    /* background-color: aquamarine; */
+    height: 500px;
+}
+
+article {
+    background-color: azure;
+    width: 100%;
+   
+    float: left;
+}
+
+.content {background-color: rgb(220, 216, 252);}
+
+
+footer {
+    clear: both;
+    background-color: bisque;
+    float: none;
+    height: 100px;
+}
+
+img{width: 250px; height: auto;}
