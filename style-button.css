@@ -1,0 +1,21 @@
+.social a {
+display: flex;
+}
+
+.social a {
+    
+    width: 32px;
+    min-width: 32px;
+    height: 32px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border: 1px solid #e1e1e1;
+    margin-left: 8px;
+  }
+  .social i{
+   
+
+  }
